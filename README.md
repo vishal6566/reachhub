@@ -36,7 +36,7 @@ You can signup with our website from here .
 
 You can login to our website from here by entering required details.
 
-## Product Page
+## Top 50 players Page
 
 ![Top50Players](frontend/static/images/top50.png)
 
@@ -50,7 +50,7 @@ Here, you can download  a CSV file with the rating history for the top 50 player
 
 ## Rating Points
 
-![RatingPoints](static/images/ratingPoints.png)
+![RatingPoints](frontend/static/images/ratingPoints.png)
 
 Here, you can see all of rating of single player for last 30 days.
 

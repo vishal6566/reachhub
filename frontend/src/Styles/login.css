@@ -1,0 +1,73 @@
+.container {
+ 
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  gap: 5px;
+}
+
+.loginContainer {
+  width: 51%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginContainer >div{
+    width: 70%;
+   
+}
+
+.loginContainer > div > div:first-child {
+ 
+  width: 90px;
+  height: 90px;
+  margin: auto;
+}
+.imgContainer {
+  width: 49%;
+}
+.imgContainer img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.newUserBox{
+    display: flex;
+    gap: 2px;
+}
+.signupDiv{
+    cursor: pointer;
+   
+}
+.signupDiv:hover{
+    text-decoration: underline;
+    color: teal;
+}
+/* small screen */
+@media screen and (min-width: 100px) and (max-width: 850px){
+  .container {
+ 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
+    flex-direction: column;
+  }
+  .loginContainer{
+    width: 100%;
+ height: 60vh;
+  }
+  .imgContainer{
+    width: 100%;
+    height: 40vh;
+  }
+  .imgContainer img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+  .loginContainer >div{
+    width: 90%;
+   
+}
+}

@@ -21,30 +21,30 @@ To make this clone we have used HTMl, CSS and JavaScript for front-end and NodeJ
 
 ## Landing Page
 
-![LoginPage](static/images/login.png)
+![LoginPage](frontend/static/images/login.png)
 
 
 ## SignUp Page
 
-![SignUpPage](static/images/signup.png)
+![SignUpPage](frontend/static/images/signup.png)
 
 You can signup with our website from here .
 
 ## Login Page
 
-![LoginPage](static/images/login.png)
+![LoginPage](frontend/static/images/login.png)
 
 You can login to our website from here by entering required details.
 
 ## Product Page
 
-![Top50Players](static/images/top50.png)
+![Top50Players](frontend/static/images/top50.png)
 
 Here, you can see top 50 chess players
 
 ## Csv Button
 
-![CsvButton](static/images/csvButton.png)
+![CsvButton](frontend/static/images/csvButton.png)
 
 Here, you can download  a CSV file with the rating history for the top 50 players. Each row contains the player’s username, their rating from 30 days ago, and their rating for each subsequent day up to today..
 

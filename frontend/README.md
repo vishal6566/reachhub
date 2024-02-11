@@ -36,7 +36,7 @@ You can signup with our website from here .
 
 You can login to our website from here by entering required details.
 
-## Product Page
+## Top 50 player Page
 
 ![Top50Players](static/images/top50.png)
 

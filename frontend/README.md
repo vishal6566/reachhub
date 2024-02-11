@@ -8,12 +8,12 @@ In this project we have used the following tech stack.
 - CSS
 - JAVASCRIPT
 - ReactJS
-
+-Chakra ui
 - EXPRESS
 - NODEJS
 - MONGODB - Atlas
 
-To make this clone we have used HTMl, CSS and JavaScript for front-end and NodeJS, ExpressJs and MongoDB for back-end.
+To make this i have used React js for front-end and NodeJS, ExpressJs and MongoDB for back-end.
 
 
 
